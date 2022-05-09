@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hmw5.3</string>
+    <string name="send">send</string>
+    <string name="edittext">Введите текст</string>
+</resources>
